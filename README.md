@@ -6,7 +6,11 @@
 
 2. Create a .env file by using .env.example as basis. Assign a value for JWT_SECRET variable
 
-3. Run API
+3. Run Migration
+### `cd database`
+### `node migration.js up`
+
+4. Run API
 
 ### `npm start`
 

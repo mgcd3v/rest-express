@@ -2,7 +2,7 @@
 
 1. Install Dependencies
 
-### `npm install`
+### `npm install` / `yarn install`
 
 2. Create a .env file by using .env.example as basis. Assign a value for JWT_SECRET variable
 

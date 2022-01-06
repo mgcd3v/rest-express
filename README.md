@@ -4,7 +4,7 @@
 
 ### `npm install`
 
-2. Create a .env file by using .env.example as basis
+2. Create a .env file by using .env.example as basis. Assign a value for JWT_SECRET variable
 
 3. Run API
 
